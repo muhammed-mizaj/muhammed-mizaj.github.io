@@ -136,4 +136,4 @@ const days = Math.round(diff/1000/60/60/24);
 const ages = Math.round(diff/1000/60/60/24/365);
 const birthday = document.querySelector('#birthdayinfo');
 
-birthday.innerHTML +=`<h4> I am ${ages} years Old</h4>`
+birthday.innerHTML +=`<h4> I am ${ages-1} years Old</h4>`
