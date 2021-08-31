@@ -1,12 +1,12 @@
 body{
-    background: #f5f5f4;
+    background: black;
     letter-spacing:0.2em ;
     font-size: 0.8em;
 
 }
 .container{
     max-width:400px;
-    background-color: rgb(169, 169, 199);
+    background-color: rgba(77,57, 33,0.2);
     border-radius: 20px;
 }
 .form-control{
